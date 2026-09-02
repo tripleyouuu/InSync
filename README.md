@@ -9,13 +9,20 @@ Staying in touch with people spread across the globe means constantly doing time
 ## Features
 
 - Add the people you want to keep in sync with, along with their time zone and schedules
+  
   <img width="603" height="1311" alt="IMG_1855" src="https://github.com/user-attachments/assets/f77f09b3-82c8-4024-81f8-a940fd55a842" />
   <img width="603" height="1311" alt="IMG_1857" src="https://github.com/user-attachments/assets/4cd137b5-f3fc-47a8-b03c-1b328edaa067" />
+  
 - See everyone's current local time at a glance
+  
   <img width="603" height="1311" alt="IMG_1861" src="https://github.com/user-attachments/assets/f5f7b1ad-0ca5-47dc-b7de-a5bfd64d54df" />
+  
 - Quickly identify who's likely available for a call or chat right now
+  
   <img width="603" height="1311" alt="IMG_1863" src="https://github.com/user-attachments/assets/0c4e3574-91b1-473f-be86-20d79ef49f10" />
+  
 - A clean, simple interface built for iOS
+  
   <img width="603" height="1311" alt="IMG_1858" src="https://github.com/user-attachments/assets/01d58c3f-c707-46dc-b3ca-60dcbd52f7d5" />
 
 ### Requirements
