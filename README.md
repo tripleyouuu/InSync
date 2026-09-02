@@ -1,4 +1,4 @@
-<img width="603" height="1311" alt="IMG_1861" src="https://github.com/user-attachments/assets/1f3bd2cf-7f86-470a-ab9d-0b953cca501f" /># InSync
+# InSync
 
 InSync is an iOS app that helps you keep track of the schedules of everyone in your life — friends and family — across different time zones, so you can check at a glance who's free for a quick chat right now.
 
